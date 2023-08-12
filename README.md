@@ -1,1 +1,2 @@
 # Chrome-Dino-Game
+The Chrome Offline Dinosaur Game Clone is a Java-based implementation of the well-known browser game that activates when users face network connectivity issues. Our project meticulously recreates the core gameplay, featuring a dynamic main character, treacherous obstacles, and an ever-scrolling landscape. With a focus on maintaining the essence of the original game, we've incorporated key elements such as jumping, ducking, and the adrenaline-pumping pursuit of achieving the highest score possible.
